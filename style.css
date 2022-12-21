@@ -1,0 +1,42 @@
+:root{
+    --red-color:#ce1710;
+    --yellow-color:#F2F2BD;
+
+}
+.page-container{
+    margin-top: 10rem;
+    border-radius: 5rem;
+}
+.greetin-container{
+    width: 600px;
+    height: 600px;
+}
+.left-section{
+    width: 200px;
+    height: 400px;
+    background-color: yellow;
+}
+.right-section{
+    width: 200px;
+    height: 400px;
+    background-color: brown;
+}
+.left-image{
+    height: 400px;
+    width: 200px;
+    background-color: yellow;
+    color: yellow;
+}
+.title{
+    font-family: 'Dancing Script', cursive;
+    color: yellow;
+    font-size: 4rem;
+}
+.description{
+    font-family: 'Work Sans', sans-serif;
+    color: yellow;
+    font-size: 1.5rem;
+}
+.align-baseline{
+    background-color: white;
+}
